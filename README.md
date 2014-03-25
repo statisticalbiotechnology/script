@@ -28,3 +28,6 @@ Script that contains code for a heatmap (2D-histogram) or a pq-plot.
 **tandem_runner.py**  
 A script for running tandem jobs locally, requires some corrections.
 /Viktor
+
+**parsimony.py**
+A script generating the pasimonius set of proteins from percolator output. /LK
